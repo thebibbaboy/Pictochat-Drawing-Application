@@ -3,28 +3,21 @@ A server-based Java program that simulates the popular Nintendo DS Minigame, Pic
 
 DEMO VIDEO: https://youtu.be/_CY6Noy6oCs
 
-##########################################################
-################### Program Summary ######################
-##########################################################
 Hello! Thank you for using the Java Pictochat Simulator! =)
 
 This is a program that acts as a basic virtual drawing platform
 for two users to connect onto. It builds on the Nintendo DS
 game Pictochat, a program that acts very similarly. 
 
-##########################################################
-############### Current Program Features #################
-##########################################################
+FEATURES:
 As of now, this program includes:
+
 -Functionality for two players to connect and draw together
 on a shared canvas that updates continuously.
-
 -Stroke size, brush color, and erase options are all included 
 
 
-##########################################################
-############### How To Test The Program? #################
-##########################################################
+HOW TO TEST:
 
 1. Import the JAR file into BlueJ, then open the project.
 

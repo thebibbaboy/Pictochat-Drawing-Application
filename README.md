@@ -1,6 +1,8 @@
 # Pictochat-Drawing-Application
 A server-based Java program that simulates the popular Nintendo DS Minigame, Pictochat
 
+DEMO VIDEO: https://youtu.be/_CY6Noy6oCs
+
 ##########################################################
 ################### Program Summary ######################
 ##########################################################
